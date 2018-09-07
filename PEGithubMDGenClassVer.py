@@ -20,7 +20,7 @@ Problem .py files are stipped of their answers out of respect for the
 owners/operators of Project Euler, as they request users do not
 publish answers.
 
-A delay of 3sec is implimented between each problem it handles if
+A delay of 3sec is implemented between each problem it handles if
 a markdown file was successfully created. This is to prevent spamming
 of the Project Euler site as a courtesy.
 
